@@ -1,0 +1,128 @@
+{
+  "channels": [
+    {
+      "name": "BeIN SPORTS 1",
+      "streamUrl": "https://balance.footballii.ir/hls2/b1.m3u8",
+      "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",
+      "category": "BeIN SPORTS"
+    },
+    {
+      "name": "BeIN SPORTS 2",
+      "streamUrl": "https://balance.footballii.ir/hls2/b2.m3u8",
+      "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",
+      "category": "BeIN SPORTS"
+    },
+    {
+      "name": "BeIN SPORTS 3",
+      "streamUrl": "https://balance.footballii.ir/hls2/b3.m3u8",
+      "imageUrl": "https://logowik.com/content/uploads/images/bein-sports-31536.logowik.com.webp",
+      "category": "BeIN SPORTS",
+      "quality": "HD"
+    },
+    {
+      "name": "BeIN SPORTS 4",
+      "streamUrl": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+      "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/b/bc/BS4.svg/revision/latest?cb=20200107204039",
+      "category": "BeIN SPORTS",
+      "quality": "HD"
+    },
+    {
+      "name": "BeIN SPORTS 5",
+      "streamUrl": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+      "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/8/87/BS5.svg/revision/latest?cb=20200107204133",
+      "category": "BeIN SPORTS",
+      "quality": "HD"
+    },
+    {
+      "name": "BeIN SPORTS 6",
+      "streamUrl": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+      "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/5/58/BS6.svg/revision/latest?cb=20200107204143",
+      "category": "BeIN SPORTS",
+      "quality": "HD"
+    },
+    {
+      "name": "BeIN SPORTS 7",
+      "streamUrl": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+      "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/2/25/BS7.svg/revision/latest?cb=20200107204153",
+      "category": "BeIN SPORTS",
+      "quality": "HD"
+    },
+    {
+      "name": "BeIN SPORTS 8",
+      "streamUrl": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+      "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/4/44/BS8.svg/revision/latest?cb=20200107204202",
+      "category": "BeIN SPORTS",
+      "quality": "HD"
+    },
+    {
+      "name": "BeIN SPORTS 9",
+      "streamUrl": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+      "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/e/e8/BS9.svg/revision/latest?cb=20200107204728",
+      "category": "BeIN SPORTS",
+      "quality": "HD"
+    },
+    {
+      "name": "MBC 1",
+      "streamUrl": "https://mdssplive.akamaized.net/hls/live/2002831/mbc1/01.m3u8",
+      "imageUrl": "https://i.imgur.com/JK5XhGc.png",
+      "category": "MBC",
+      "quality": "HD"
+    },
+    {
+      "name": "MBC PRO SPORTS",
+      "streamUrl": "https://shls-mbc-prosports-ak.akamaized.net/out/v1/df45ed40e5f34b6b8fd8a06e6b5b0a1b/index.m3u8",
+      "imageUrl": "https://i.imgur.com/9QvYQ2j.png",
+      "category": "MBC",
+      "quality": "HD"
+    },
+    {
+      "name": "MBC Drama",
+      "streamUrl": "https://mdssplive.akamaized.net/hls/live/2002834/mbcdrama/01.m3u8",
+      "imageUrl": "https://i.imgur.com/g0t5T4v.png",
+      "category": "MBC",
+      "quality": "HD"
+    },
+    {
+      "name": "الجزائرية الأولى",
+      "streamUrl": "https://algeriatv.akamaized.net/hls/live/2020130/AlgeriaTV/index.m3u8",
+      "imageUrl": "https://i.imgur.com/5tYd5Jk.png",
+      "category": "الجزائرية",
+      "quality": "HD"
+    },
+    {
+      "name": "الجزائرية الرياضية",
+      "streamUrl": "https://algeriatvsport.akamaized.net/hls/live/2026928/AlgeriaTVSport/index.m3u8",
+      "imageUrl": "https://i.imgur.com/8WjVZ7Q.png",
+      "category": "الجزائرية",
+      "quality": "HD"
+    },
+    {
+      "name": "الجزائرية الثالثة",
+      "streamUrl": "https://algeriatv3.akamaized.net/hls/live/2026929/AlgeriaTV3/index.m3u8",
+      "imageUrl": "https://i.imgur.com/M6L7Z7Q.png",
+      "category": "الجزائرية",
+      "quality": "HD"
+    },
+    {
+      "name": "أبوظبي الرياضية 1",
+      "streamUrl": "https://vodhls.akamaized.net/ar/ads1/ads1_hd.m3u8",
+      "imageUrl": "https://i.imgur.com/X4W7Y8J.png",
+      "category": "قنوات أخرى",
+      "quality": "HD"
+    },
+    {
+      "name": "SSC Sports 1",
+      "streamUrl": "https://ssclive.akamaized.net/hls/live/2004407/ssclive1/master.m3u8",
+      "imageUrl": "https://i.imgur.com/K3y9S9m.png",
+      "category": "قنوات أخرى",
+      "quality": "HD"
+    },
+    {
+      "name": "دبي الرياضية 1",
+      "streamUrl": "https://dbs1.akamaized.net/hls/live/2002826/dbs1/index.m3u8",
+      "imageUrl": "https://i.imgur.com/Z4X7Y8J.png",
+      "category": "قنوات أخرى",
+      "quality": "HD"
+    }
+  ]
+}
