@@ -20,7 +20,7 @@
     },
     {
       "name": "BeIN SPORTS 4",
-      "streamUrl": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+      "streamUrl": "https://www.youtube.com/watch?v=ueIOUTyRS84",
       "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/b/bc/BS4.svg/revision/latest?cb=20200107204039",
       "category": "BeIN SPORTS",
       "quality": "HD"
@@ -131,3 +131,4 @@
     }
   ]
 }
+
