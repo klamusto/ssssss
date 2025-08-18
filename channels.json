@@ -122,6 +122,12 @@
       "imageUrl": "https://i.imgur.com/Z4X7Y8J.png",
       "category": "قنوات أخرى",
       "quality": "HD"
+    },
+    {
+      "name": "القرءان الكريم",
+      "streamUrl": "https://www.youtube.com/watch?v=ueIOUTyRS84",
+      "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/5/56/Saudi_Quran_TV_2020.png/revision/latest?cb=20241025151010",
+      "category": "قنوات دينية"
     }
   ]
 }
