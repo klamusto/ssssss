@@ -5,8 +5,16 @@
       "category": "BeIN SPORTS",
       "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest?cb=20200107203607",
       "servers": [
-        {"name": "Server 1", "url": "https://balance.footballii.ir/hls2/b1.m3u8", "quality": "HD"},
-        {"name": "Server 2 (backup)", "url": "https://balance.footballii.ir/hls2/b1.m3u8", "quality": "HD"}
+        {
+          "name": "Server 1",
+          "url": "https://balance.footballii.ir/hls2/b1.m3u8",
+          "quality": "HD"
+        },
+        {
+          "name": "Server 2 (backup)",
+          "url": "https://balance.footballii.ir/hls2/b1.m3u8",
+          "quality": "HD"
+        }
       ]
     },
     {
@@ -14,8 +22,16 @@
       "category": "BeIN SPORTS",
       "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest?cb=20200107203903",
       "servers": [
-        {"name": "Server 1", "url": "https://balance.footballii.ir/hls2/b2.m3u8", "quality": "HD"},
-        {"name": "Server 2 (backup)", "url": "https://balance.footballii.ir/hls2/b2.m3u8", "quality": "HD"}
+        {
+          "name": "Server 1",
+          "url": "https://balance.footballii.ir/hls2/b2.m3u8",
+          "quality": "HD"
+        },
+        {
+          "name": "Server 2 (backup)",
+          "url": "https://balance.footballii.ir/hls2/b2.m3u8",
+          "quality": "HD"
+        }
       ]
     },
     {
@@ -23,8 +39,16 @@
       "category": "BeIN SPORTS",
       "imageUrl": "https://logowik.com/content/uploads/images/bein-sports-31536.logowik.com.webp",
       "servers": [
-        {"name": "Server 1", "url": "https://balance.footballii.ir/hls2/b3.m3u8", "quality": "HD"},
-        {"name": "Server 2 (backup)", "url": "https://balance.footballii.ir/hls2/b3.m3u8", "quality": "HD"}
+        {
+          "name": "Server 1",
+          "url": "https://balance.footballii.ir/hls2/b3.m3u8",
+          "quality": "HD"
+        },
+        {
+          "name": "Server 2 (backup)",
+          "url": "https://balance.footballii.ir/hls2/b3.m3u8",
+          "quality": "HD"
+        }
       ]
     },
     {
@@ -32,8 +56,16 @@
       "category": "BeIN SPORTS",
       "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/b/bc/BS4.svg/revision/latest?cb=20200107204039",
       "servers": [
-        {"name": "Server 1", "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8", "quality": "HD"},
-        {"name": "Server 2 (backup)", "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8", "quality": "HD"}
+        {
+          "name": "Server 1",
+          "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+          "quality": "HD"
+        },
+        {
+          "name": "Server 2 (backup)",
+          "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+          "quality": "HD"
+        }
       ]
     },
     {
@@ -41,8 +73,16 @@
       "category": "BeIN SPORTS",
       "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/8/87/BS5.svg/revision/latest?cb=20200107204133",
       "servers": [
-        {"name": "Server 1", "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8", "quality": "HD"},
-        {"name": "Server 2 (backup)", "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8", "quality": "HD"}
+        {
+          "name": "Server 1",
+          "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+          "quality": "HD"
+        },
+        {
+          "name": "Server 2 (backup)",
+          "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+          "quality": "HD"
+        }
       ]
     },
     {
@@ -50,8 +90,16 @@
       "category": "BeIN SPORTS",
       "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/5/58/BS6.svg/revision/latest?cb=20200107204143",
       "servers": [
-        {"name": "Server 1", "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8", "quality": "HD"},
-        {"name": "Server 2 (backup)", "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8", "quality": "HD"}
+        {
+          "name": "Server 1",
+          "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+          "quality": "HD"
+        },
+        {
+          "name": "Server 2 (backup)",
+          "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+          "quality": "HD"
+        }
       ]
     },
     {
@@ -59,8 +107,16 @@
       "category": "BeIN SPORTS",
       "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/2/25/BS7.svg/revision/latest?cb=20200107204153",
       "servers": [
-        {"name": "Server 1", "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8", "quality": "HD"},
-        {"name": "Server 2 (backup)", "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8", "quality": "HD"}
+        {
+          "name": "Server 1",
+          "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+          "quality": "HD"
+        },
+        {
+          "name": "Server 2 (backup)",
+          "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+          "quality": "HD"
+        }
       ]
     },
     {
@@ -68,8 +124,16 @@
       "category": "BeIN SPORTS",
       "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/4/44/BS8.svg/revision/latest?cb=20200107204202",
       "servers": [
-        {"name": "Server 1", "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8", "quality": "HD"},
-        {"name": "Server 2 (backup)", "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8", "quality": "HD"}
+        {
+          "name": "Server 1",
+          "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+          "quality": "HD"
+        },
+        {
+          "name": "Server 2 (backup)",
+          "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+          "quality": "HD"
+        }
       ]
     },
     {
@@ -77,8 +141,16 @@
       "category": "BeIN SPORTS",
       "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/e/e8/BS9.svg/revision/latest?cb=20200107204728",
       "servers": [
-        {"name": "Server 1", "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8", "quality": "HD"},
-        {"name": "Server 2 (backup)", "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8", "quality": "HD"}
+        {
+          "name": "Server 1",
+          "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+          "quality": "HD"
+        },
+        {
+          "name": "Server 2 (backup)",
+          "url": "https://bein-mena-1.mediahub.media/live/beinextra1/beinextra1/playlist.m3u8",
+          "quality": "HD"
+        }
       ]
     },
     {
@@ -86,8 +158,16 @@
       "category": "MBC",
       "imageUrl": "https://i.imgur.com/JK5XhGc.png",
       "servers": [
-        {"name": "Server 1", "url": "https://mdssplive.akamaized.net/hls/live/2002831/mbc1/01.m3u8", "quality": "HD"},
-        {"name": "Server 2 (backup)", "url": "https://mdssplive.akamaized.net/hls/live/2002831/mbc1/01.m3u8", "quality": "HD"}
+        {
+          "name": "Server 1",
+          "url": "https://mdssplive.akamaized.net/hls/live/2002831/mbc1/01.m3u8",
+          "quality": "HD"
+        },
+        {
+          "name": "Server 2 (backup)",
+          "url": "https://mdssplive.akamaized.net/hls/live/2002831/mbc1/01.m3u8",
+          "quality": "HD"
+        }
       ]
     },
     {
@@ -95,8 +175,16 @@
       "category": "MBC",
       "imageUrl": "https://i.imgur.com/9QvYQ2j.png",
       "servers": [
-        {"name": "Server 1", "url": "https://shls-mbc-prosports-ak.akamaized.net/out/v1/df45ed40e5f34b6b8fd8a06e6b5b0a1b/index.m3u8", "quality": "HD"},
-        {"name": "Server 2 (backup)", "url": "https://shls-mbc-prosports-ak.akamaized.net/out/v1/df45ed40e5f34b6b8fd8a06e6b5b0a1b/index.m3u8", "quality": "HD"}
+        {
+          "name": "Server 1",
+          "url": "https://shls-mbc-prosports-ak.akamaized.net/out/v1/df45ed40e5f34b6b8fd8a06e6b5b0a1b/index.m3u8",
+          "quality": "HD"
+        },
+        {
+          "name": "Server 2 (backup)",
+          "url": "https://shls-mbc-prosports-ak.akamaized.net/out/v1/df45ed40e5f34b6b8fd8a06e6b5b0a1b/index.m3u8",
+          "quality": "HD"
+        }
       ]
     },
     {
@@ -104,8 +192,16 @@
       "category": "MBC",
       "imageUrl": "https://i.imgur.com/g0t5T4v.png",
       "servers": [
-        {"name": "Server 1", "url": "https://mdssplive.akamaized.net/hls/live/2002834/mbcdrama/01.m3u8", "quality": "HD"},
-        {"name": "Server 2 (backup)", "url": "https://mdssplive.akamaized.net/hls/live/2002834/mbcdrama/01.m3u8", "quality": "HD"}
+        {
+          "name": "Server 1",
+          "url": "https://mdssplive.akamaized.net/hls/live/2002834/mbcdrama/01.m3u8",
+          "quality": "HD"
+        },
+        {
+          "name": "Server 2 (backup)",
+          "url": "https://mdssplive.akamaized.net/hls/live/2002834/mbcdrama/01.m3u8",
+          "quality": "HD"
+        }
       ]
     },
     {
@@ -113,10 +209,37 @@
       "category": "الجزائرية",
       "imageUrl": "https://i.imgur.com/5tYd5Jk.png",
       "servers": [
-        {"name": "Server 1", "url": "https://algeriatv.akamaized.net/hls/live/2020130/AlgeriaTV/index.m3u8", "quality": "HD"},
-        {"name": "Server 2 (backup)", "url": "https://algeriatv.akamaized.net/hls/live/2020130/AlgeriaTV/index.m3u8", "quality": "HD"}
+        {
+          "name": "Server 1",
+          "url": "https://algeriatv.akamaized.net/hls/live/2020130/AlgeriaTV/index.m3u8",
+          "quality": "HD"
+        },
+        {
+          "name": "Server 2 (backup)",
+          "url": "https://algeriatv.akamaized.net/hls/live/2020130/AlgeriaTV/index.m3u8",
+          "quality": "HD"
+        }
+      ]
+    },
+    {
+      "name": "AD sports 1",
+      "category": "قنوات رياضية عربية",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AAd_sport_1.png&psig=AOvVaw1FbWp99aAopC3LRkvk6hwN&ust=1764857891662000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwick_uOzqGRAxWLmycCHWGPIfoQjRx6BAgAEBo",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index_sp1_video_enc_1080p25.m3u8",
+          "quality": "HD"
+        }
       ]
     }
   ],
-  "categories": ["BeIN SPORTS","MBC","الجزائرية","قنوات أخرى","قنوات دينية"]
+  "categories": [
+    "BeIN SPORTS",
+    "MBC",
+    "الجزائرية",
+    "قنوات أخرى",
+    "قنوات دينية",
+    "قنوات رياضية عربية"
+  ]
 }
